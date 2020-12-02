@@ -1,0 +1,78 @@
+y{
+	background: rgba(0,0,0,0.8);
+}
+body{
+	background-image: url(D:\myEcilipse\hw\jspHw\pic\login_back.png);
+}
+.wrap{
+
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -175px 0 0 -250px;
+	padding: 20px;
+	width: 500px;
+	height: 350px;
+	background: #061b2e;
+	box-shadow:0 0 10px rgba(255,255,255,0.5);
+	box-sizing: border-box;
+}
+h1{
+    color:#343475;
+	height: 50px;
+	font-size: 3.3em;
+	text-align: center;
+	border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+.input-group{
+	margin: 20px auto;
+	height: 40px;
+	width: 300px;
+	border: 1px solid rgba(0,0,0,0.2);
+}
+i{
+	float: left;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px !important;
+	background: rgb(16 72 105);
+	color: #fff;
+	font-size: 22px !important;
+	
+}
+.form-control{
+	float: left;
+	padding: 0 10px;
+	height: 40px;
+	border: 0;
+	width: 260px;
+	font-size: 18px;
+	box-sizing: border-box;
+}
+.btn-group{
+	border: 0;
+	margin-top: 40px;
+}
+button{
+	display: block;
+	width: 30%;
+	height: 40px;
+	font-size: 1.2em;
+	letter-spacing: 10px;
+	border: 1px solid rgb(24 156 195);
+	color: rgb(25 148 148);
+	background: #fff;
+	cursor: pointer;
+}
+
+button:hover{
+	color: #fff;
+	background: rgb(16 72 105);
+}
+
+p{
+	font-size: 12px;
+	text-align: center;
+	color: #888;
+}
